@@ -1,0 +1,15 @@
+{
+  "short_name": "Farma Softys",
+  "name": "Farma Softys",
+  "icons": [
+    {
+      "src": "./assets/images/softys-logo.webp",
+      "sizes": "100x100",
+      "type": "image/webp"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
+}
